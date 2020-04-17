@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todoapp7199": {
+      "hosting": {
+        "Todo": [
+          "todoapp7199"
+        ]
+      }
+    }
+  }
+}
