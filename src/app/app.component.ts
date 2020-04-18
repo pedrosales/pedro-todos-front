@@ -25,7 +25,7 @@ export class AppComponent implements OnInit {
       }
     });
 
-    this.afAuth.idToken.subscribe(token => console.log(token));
+    //this.afAuth.idToken.subscribe(token => console.log(token));
   }
 
 }
